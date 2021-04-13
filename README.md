@@ -1,6 +1,6 @@
-# Minimalist Nginx error pages
+# Páginas de erro minimalistas para Nginx
 
-A set of custom minimalist 4xx and 5xx error pages for Nginx.
+Um conjunto de páginas de erro 4xx e 5xx minimalistas personalizadas para Nginx.
 
 ## Preview
 ![404 error page](https://i.imgur.com/UhkO7uP.pngg)
