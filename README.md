@@ -11,7 +11,7 @@ https://github.com/bartosjiri/nginx-errors
 ## Instalação
 
 1. Navegue até o diretório de documentos padrão do Nginx:
-	```
+    ```
     cd /usr/share/nginx/html
     ```
 2. Clone o repositório:
