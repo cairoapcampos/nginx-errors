@@ -2,7 +2,7 @@
 
 Um conjunto de páginas de erro 4xx e 5xx minimalistas personalizadas para Nginx.
 
-## Preview
+## Exemplo de Página
 ![404 error page](https://i.imgur.com/UhkO7uP.pngg)
 
 ## Instalação
