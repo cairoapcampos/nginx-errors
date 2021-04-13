@@ -2,6 +2,9 @@
 
 Um conjunto de páginas de erro 4xx e 5xx minimalistas personalizadas para Nginx.
 
+Attention! This project is a simple translation of error messages into Portuguese. The original project can be found at:
+https://github.com/bartosjiri/nginx-errors
+
 ## Exemplo de Página
 ![404 error page](https://i.imgur.com/UhkO7uP.pngg)
 
