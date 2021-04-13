@@ -7,23 +7,23 @@ A set of custom minimalist 4xx and 5xx error pages for Nginx.
 
 ## Installation
 
-1. Navigate into Nginx's default document directory:
+1. Navegue até o diretório de documentos padrão do Nginx:
 	```
     cd /usr/share/nginx/html
     ```
-2. Clone the repository:
+2. Clone o repositório:
 	```
     git clone https://github.com/bartosjiri/nginx-errors.git
     ```
 
-3. Add the custom error pages to the server's default configuration in `/etc/nginx/sites-enabled/default` file:
+3. Adicione as páginas de erro personalizadas à configuração padrão do servidor no arquivo `/etc/nginx/sites-enabled/default`:
 	```
     server {
     ...
     include /usr/share/nginx/html/nginx-errors/nginx-errors.conf
     }
     ```
-4. Verify the configuration and reload Nginx:
+4. Verifique a configuração e recarregue o Nginx:
 	```
     sudo nginx -t
     sudo service nginx reload
