@@ -19,7 +19,7 @@ https://github.com/bartosjiri/nginx-errors
     git clone https://github.com/cairoapcampos/nginx-errors-ptbr.git
     ```
 
-3. Adicione as páginas de erro personalizadas à configuração padrão do servidor no arquivo `/etc/nginx/sites-enabled/default`:
+3. Adicione as páginas de erro personalizadas à configuração padrão do servidor no arquivo `/etc/nginx/sites-enabled/default` ou no arquivo de configuração de outro site existente:
 	```
     server {
     ...
