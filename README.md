@@ -23,7 +23,7 @@ https://github.com/bartosjiri/nginx-errors
 	```
     server {
     ...
-    include /usr/share/nginx/html/nginx-errors/nginx-errors.conf
+    include /usr/share/nginx/html/nginx-errors-ptbr/nginx-errors.conf;
     }
     ```
 4. Verifique a configuração e recarregue o Nginx:
