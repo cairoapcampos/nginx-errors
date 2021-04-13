@@ -6,9 +6,9 @@ Attention! This project is a simple translation of error messages into Portugues
 https://github.com/bartosjiri/nginx-errors
 
 ## Exemplo de Página
-![404 error page](https://i.imgur.com/UhkO7uP.pngg)
+#![404 error page](https://i.imgur.com/UhkO7uP.pngg)
 
-![Initial Screen](https://github.com/cairoapcampos/nginx-errors-ptbr/raw/master/examplePage.png)
+![404 error page](https://github.com/cairoapcampos/nginx-errors-ptbr/raw/master/examplePage.png)
 
 ## Instalação
 
